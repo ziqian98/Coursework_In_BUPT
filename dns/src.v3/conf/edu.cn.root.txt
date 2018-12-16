@@ -1,0 +1,5 @@
+ip: 127.0.0.5
+port: 53
+SBELT: 127.0.0.8
+Recursion: Yes
+desc: 我是域名服务器-教育.中国

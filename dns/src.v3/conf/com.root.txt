@@ -1,0 +1,5 @@
+ip: 127.0.0.4
+port: 53
+SBELT: 127.0.0.8
+Recursion: No
+desc: 我是域名服务器-商业
